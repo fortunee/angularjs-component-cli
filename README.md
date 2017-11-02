@@ -1,2 +1,2 @@
 # angularjs-component-cli
-A command line tool that bootstraps an angularjs component based architecture app
+A simple command line tool that bootstraps an angularjs component based architecture app
