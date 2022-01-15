@@ -28,7 +28,7 @@
     "commander": "^2.9.0",
     "cross-spawn": "^5.1.0",
     "figlet": "^1.2.0",
-    "shelljs": "^0.7.7"
+    "shelljs": "^0.8.5"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@fortunee"
